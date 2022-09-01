@@ -2,3 +2,7 @@ body{
     background-color: crimson;
     color:beige;
 }
+
+h1{
+    align-items: center;
+}
