@@ -14,6 +14,10 @@ git log
 git status
 
 git diff <commit1> <commit2>
+git diff
 
 git branch <nom de la branche>
 git checkout <nom de la branche>
+git branch
+
+git branch -d <nom de la branche>
