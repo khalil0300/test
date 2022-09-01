@@ -1,0 +1,19 @@
+
+git config --global user.name <nom de l'utilisateur>
+git config --global user.email <l'email>
+
+git init
+
+git add <nom du ficier>
+
+git commit --messge "le message"
+git commit -m "le messge"
+
+git log
+
+git status
+
+git diff <commit1> <commit2>
+
+git branch <nom de la branche>
+git checkout <nom de la branche>
